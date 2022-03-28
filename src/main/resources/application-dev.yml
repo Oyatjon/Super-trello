@@ -3,7 +3,7 @@ spring:
     driver-class-name: org.postgresql.Driver
     url: jdbc:postgresql://localhost:5432/super_trello?currentSchema=trello
     username: postgres
-    password: 123
+    password: 2000
   jpa:
     show-sql: true
     hibernate:

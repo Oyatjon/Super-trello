@@ -8,8 +8,8 @@ spring:
   datasource:
     driver-class-name: org.postgresql.Driver
     url: jdbc:postgresql://localhost:5432/super_trello?currentSchema=trello
-    username: nodirbek
-    password: 123
+    username: postgres
+    password: 2000
 
   jpa:
     show-sql: true

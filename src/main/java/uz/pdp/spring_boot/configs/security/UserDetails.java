@@ -11,10 +11,6 @@ import uz.pdp.spring_boot.entity.auth.AuthUser;
 import java.util.*;
 import java.util.stream.Collectors;
 
-/**
- * @author Nodirbek Abdukarimov Mon. 9:08 PM. 2/21/2022
- */
-
 
 @Getter
 public class UserDetails implements org.springframework.security.core.userdetails.UserDetails {

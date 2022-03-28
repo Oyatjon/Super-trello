@@ -6,9 +6,7 @@ import lombok.Setter;
 import javax.persistence.*;
 import java.util.List;
 
-/**
- * @author Nodirbek Abdukarimov Tue. 5:13 PM. 2/22/2022
- */
+
 @Getter
 @Setter
 @Entity

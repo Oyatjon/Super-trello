@@ -1,13 +1,12 @@
 package uz.pdp.spring_boot.entity.auth;
 
+import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.Getter;
 import lombok.Setter;
 
 import javax.persistence.*;
 
-/**
- * @author Nodirbek Abdukarimov Tue. 5:14 PM. 2/22/2022
- */
 @Getter
 @Setter
 @Entity

@@ -9,9 +9,7 @@ import uz.pdp.spring_boot.entity.organization.Organization;
 import javax.persistence.*;
 import java.sql.Timestamp;
 
-/**
- * @author Nodirbek Abdukarimov Tue. 4:36 PM. 2/22/2022
- */
+
 @ToString
 @Getter
 @Setter

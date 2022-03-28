@@ -15,10 +15,6 @@ import org.springframework.security.web.util.matcher.AntPathRequestMatcher;
 import javax.annotation.PostConstruct;
 import java.util.concurrent.TimeUnit;
 
-/**
- * @author Nodirbek Abdukarimov Mon. 9:07 PM. 2/21/2022
- */
-
 @Configuration
 @EnableWebSecurity
 @EnableGlobalMethodSecurity(

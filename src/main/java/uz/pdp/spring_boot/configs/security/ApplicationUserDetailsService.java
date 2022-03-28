@@ -6,9 +6,7 @@ import org.springframework.stereotype.Service;
 import uz.pdp.spring_boot.entity.auth.AuthUser;
 import uz.pdp.spring_boot.reposiroty.auth.AuthUserRepository;
 
-/**
- * @author Nodirbek Abdukarimov Mon. 9:06 PM. 2/21/2022
- */
+
 @Service
 public class ApplicationUserDetailsService implements UserDetailsService {
 
